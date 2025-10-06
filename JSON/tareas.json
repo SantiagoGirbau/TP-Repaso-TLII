@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Preparar informe mensual",
+    "Descripcion": "Revisar los datos de ventas y generar el informe del mes de septiembre",
+    "Estado1": "Pendiente"
+  },
+  {
+    "Id": 2,
+    "Titulo": "Actualizar página web",
+    "Descripcion": "Agregar la nueva sección de productos destacados en la página principal",
+    "Estado1": "EnProgreso"
+  },
+  {
+    "Id": 3,
+    "Titulo": "Enviar factura al cliente",
+    "Descripcion": "Enviar la factura correspondiente al pedido #203 al cliente Acme S.A.",
+    "Estado1": "Completada"
+  },
+  {
+    "Id": 4,
+    "Titulo": "Reunión con el equipo de desarrollo",
+    "Descripcion": "Discutir los avances del sprint actual y definir prioridades para la próxima semana",
+    "Estado1": "Pendiente"
+  },
+  {
+    "Id": 5,
+    "Titulo": "Respaldar base de datos",
+    "Descripcion": "Realizar copia de seguridad completa de la base de datos de producción",
+    "Estado1": "EnProgreso"
+  }
+]
